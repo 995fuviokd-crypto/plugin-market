@@ -113,20 +113,5 @@
       "planning",
       "automation"
     ]
-  },
-  {
-    "id": "github-mcp-server",
-    "name": "github-mcp-server",
-    "version": "1.0.0",
-    "description": "GitHub's official MCP Server",
-    "author": "github",
-    "repository": "https://github.com/github/github-mcp-server",
-    "category": "general",
-    "type": "plugin",
-    "tags": [
-      "plugin",
-      "github"
-    ],
-    "downloadUrl": "https://github.com/995fuviokd-crypto/plugin-market/raw/main/plugins/github-mcp-server-1.0.0.zip"
   }
 ]
