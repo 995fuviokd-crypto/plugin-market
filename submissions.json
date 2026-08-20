@@ -1,1 +1,43 @@
-[{"id":"github-mcp-server","name":"github-mcp-server","version":"1.0.0","description":"GitHub's official MCP Server","author":"github","repository":"https://github.com/github/github-mcp-server","category":"general","type":"plugin","tags":["plugin","github"],"fileName":"github-mcp-server-1.0.0.zip","downloadUrl":"https://github.com/995fuviokd-crypto/plugin-market/raw/main/submissions/github-mcp-server/github-mcp-server-1.0.0.zip","status":"rejected","submitter":"github-discover","submittedAt":"1787201774960","reviewedAt":"2026-08-20T04:57:43.556Z","reviewNote":"缺少可安装清单（plugin.json/skills/mcp.json）"},{"id":"resource-1787212848135","name":"resource-1787212848135","version":"1.0.0","description":"通过本地上传的资源包（插件）","author":"","repository":"","category":"general","type":"plugin","tags":["plugin"],"fileName":"resource-1787212848135-1.0.0.zip","downloadUrl":"https://github.com/995fuviokd-crypto/plugin-market/raw/main/submissions/resource-1787212848135/resource-1787212848135-1.0.0.zip","status":"pending","submitter":"995fuviokd-crypto","submittedAt":"1787212852109","reviewedAt":null,"reviewNote":null}]
+[
+  {
+    "id": "github-mcp-server",
+    "name": "github-mcp-server",
+    "version": "1.0.0",
+    "description": "GitHub's official MCP Server",
+    "author": "github",
+    "repository": "https://github.com/github/github-mcp-server",
+    "category": "general",
+    "type": "plugin",
+    "tags": [
+      "plugin",
+      "github"
+    ],
+    "fileName": "github-mcp-server-1.0.0.zip",
+    "downloadUrl": "https://github.com/995fuviokd-crypto/plugin-market/raw/main/submissions/github-mcp-server/github-mcp-server-1.0.0.zip",
+    "status": "rejected",
+    "submitter": "github-discover",
+    "submittedAt": "1787201774960",
+    "reviewedAt": "2026-08-20T04:57:43.556Z",
+    "reviewNote": "缺少可安装清单（plugin.json/skills/mcp.json）"
+  },
+  {
+    "id": "resource-1787212848135",
+    "name": "resource-1787212848135",
+    "version": "1.0.0",
+    "description": "通过本地上传的资源包（插件）",
+    "author": "",
+    "repository": "",
+    "category": "general",
+    "type": "plugin",
+    "tags": [
+      "plugin"
+    ],
+    "fileName": "resource-1787212848135-1.0.0.zip",
+    "downloadUrl": "https://github.com/995fuviokd-crypto/plugin-market/raw/main/submissions/resource-1787212848135/resource-1787212848135-1.0.0.zip",
+    "status": "approved",
+    "submitter": "995fuviokd-crypto",
+    "submittedAt": "1787212852109",
+    "reviewedAt": "2026-08-20T08:01:21.058Z",
+    "reviewNote": null
+  }
+]
