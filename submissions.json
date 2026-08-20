@@ -76,10 +76,10 @@
     ],
     "fileName": "operit-pack-1.0.0.zip",
     "downloadUrl": "https://github.com/995fuviokd-crypto/plugin-market/raw/main/submissions/operit-pack/operit-pack-1.0.0.zip",
-    "status": "pending",
+    "status": "rejected",
     "submitter": "github-discover",
     "submittedAt": "1787218937243",
-    "reviewedAt": null,
-    "reviewNote": null
+    "reviewedAt": "2026-08-20T11:04:51.776Z",
+    "reviewNote": "整仓收录测试包，含两个 SKILL.md 且与已上架 operit-ai-experience-notes 精选技能重复，予以拒绝"
   }
 ]
