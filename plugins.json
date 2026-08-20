@@ -113,5 +113,19 @@
       "planning",
       "automation"
     ]
+  },
+  {
+    "id": "resource-1787212848135",
+    "name": "resource-1787212848135",
+    "version": "1.0.0",
+    "description": "通过本地上传的资源包（插件）",
+    "author": "",
+    "repository": "",
+    "category": "general",
+    "type": "plugin",
+    "tags": [
+      "plugin"
+    ],
+    "downloadUrl": "https://github.com/995fuviokd-crypto/plugin-market/raw/main/plugins/resource-1787212848135-1.0.0.zip"
   }
 ]
