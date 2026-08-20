@@ -1,16 +1,25 @@
 # RikkaHub 插件市场
 
-RikkaHub 官方插件索引仓库。客户端通过本仓库根目录的 `plugins.json` 读取插件列表，并从 `plugins/<id>-<version>.zip` 下载安装。
+RikkaHub 官方插件索引仓库。客户端通过本仓库根目录的 `plugins.json` 读取已上架插件列表，并从 `plugins/<id>-<version>.zip` 下载安装。
 
 ## 结构
 
 ```
 plugin-market/
-├── plugins.json            # 插件索引（客户端读取）
-├── plugins/                # 插件包（zip，根目录含 plugin.json）
+├── plugins.json            # 已上架插件索引（客户端读取，仅含审核通过的插件）
+├── submissions.json        # 提交审核队列（pending / approved / rejected）
+├── plugins/                # 已上架插件包（zip，根目录含 plugin.json）
 │   └── <id>-<version>.zip
+├── submissions/            # 待审核插件包
+│   └── <id>/<id>-<version>.zip
 └── plugins-src/            # 插件源文件（便于审阅与修改）
 ```
+
+## 插件提交与审核流程
+
+1. **提交**：插件作者通过 RikkaHub 客户端「提交插件」功能（或提交仓库源码打包），将插件包上传到 `submissions/<id>/`，并在 `submissions.json` 登记 `status: pending` 条目（含名称、版本、作者、GitHub 仓库链接、提交者与提交时间）。
+2. **审核**：管理员在审批后台（RikkaHub Plugin Review）审核待提交插件：通过则把包移入 `plugins/`、在 `plugins.json` 追加条目并标记 `approved`；拒绝则标记 `rejected` 并记录备注。只有 `plugins.json` 中列出的插件才会在客户端市场上架展示。
+3. **收录 GitHub 高星插件**：审批后台支持搜索 GitHub 上高星的 MCP / Skill / 插件仓库并一键收录到待审核队列（要求仓库包含 `plugin.json` / `skills/` / `mcp.json` / `SKILL.md` 中至少一种可安装清单）。
 
 ## 插件包格式
 
@@ -36,11 +45,9 @@ plugin-market/
 
 ## 如何贡献插件
 
-1. 克隆本仓库
-2. 在 `plugins-src/<id>/` 下编写插件（根目录放 `plugin.json`）
-3. 打包为 `plugins/<id>-<version>.zip`
-4. 在 `plugins.json` 中追加对应条目（`downloadUrl` 指向 `https://github.com/995fuviokd-crypto/plugin-market/raw/main/plugins/<id>-<version>.zip`）
-5. 提交 PR
+1. 在 `plugins-src/<id>/` 下编写插件（根目录放 `plugin.json`），打包为 zip
+2. 在 RikkaHub 客户端「提交插件」中上传，等待管理员审核
+3. 审核通过后自动上架到 `plugins/` 与 `plugins.json`
 
 ## 已收录插件
 
