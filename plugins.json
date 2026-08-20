@@ -142,5 +142,39 @@
       "github"
     ],
     "downloadUrl": "https://github.com/995fuviokd-crypto/plugin-market/raw/main/plugins/superpowers-1.0.0.zip"
+  },
+  {
+    "id": "operit-ai-experience-notes",
+    "name": "AI经验笔记",
+    "version": "1.0.0",
+    "description": "AI 经验管理与自我纠错技能。按类型自动归类排错方案和工具组合，构建可检索的经验库，建议有误时自动修正。",
+    "author": "Operit 社区",
+    "category": "general",
+    "type": "skill",
+    "repository": "https://github.com/Luck-104n/operit-pack",
+    "tags": [
+      "skill",
+      "operit",
+      "经验",
+      "排错"
+    ],
+    "downloadUrl": "https://github.com/995fuviokd-crypto/plugin-market/raw/main/plugins/operit-ai-experience-notes-1.0.0.zip"
+  },
+  {
+    "id": "operit-ai-experience-notes-v2",
+    "name": "AI经验笔记V2",
+    "version": "1.0.0",
+    "description": "AI 经验管理与自我纠错技能 V2。自动记录并归类工具组合、Android 排错、平台机制、网络配置等可复用经验，自动补演进标记便于溯源，建议有误时自动修正。",
+    "author": "Operit 社区",
+    "category": "general",
+    "type": "skill",
+    "repository": "https://github.com/Luck-104n/operit-pack",
+    "tags": [
+      "skill",
+      "operit",
+      "经验",
+      "排错"
+    ],
+    "downloadUrl": "https://github.com/995fuviokd-crypto/plugin-market/raw/main/plugins/operit-ai-experience-notes-v2-1.0.0.zip"
   }
 ]
