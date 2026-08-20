@@ -1,0 +1,16 @@
+{
+  "id": "web-search-pro",
+  "name": "联网搜索增强",
+  "version": "1.0.0",
+  "description": "增强联网搜索能力：多来源交叉查证、优先权威信息、结论附带来源与时效性标注",
+  "author": "RikkaHub Team",
+  "category": "development",
+  "repository": "https://github.com/995fuviokd-crypto/plugin-market",
+  "systemPrompt": "当用户需要最新信息或事实核实时，应主动使用搜索工具。搜索时遵循：1) 使用精确且覆盖面广的关键词；2) 必要时多轮搜索、多来源交叉验证；3) 优先引用权威来源（官网、官方文档、知名媒体、学术来源）；4) 回答时注明信息来源与时效性，信息可能过时时明确提示；5) 仅凭模型记忆无法确证时效性问题时，必须搜索而非猜测。",
+  "actions": [
+    { "label": "搜索最新", "prompt": "请联网搜索以下主题并总结最新信息：" },
+    { "label": "深度调研", "prompt": "请就以下主题进行多来源联网调研，输出结构化报告：" }
+  ],
+  "type": "plugin",
+  "tags": ["search", "web", "research", "development"]
+}

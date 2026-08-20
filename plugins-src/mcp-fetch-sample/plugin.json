@@ -1,0 +1,12 @@
+{
+  "id": "mcp-fetch-sample",
+  "name": "MCP 服务器配置示例",
+  "version": "1.0.0",
+  "description": "MCP 配置示例包：Fetch 网页抓取与 Filesystem 文件系统服务器配置模板，可参考接入自己的 MCP 服务",
+  "author": "RikkaHub Team",
+  "category": "development",
+  "repository": "https://github.com/995fuviokd-crypto/plugin-market",
+  "systemPrompt": "本插件提供 MCP 服务器配置示例（见包内 mcp.json）。当用户需要接入外部工具时，可参考其中的服务器定义方式，说明命令、参数与用途，并引导用户在应用的 MCP 配置中启用对应服务。",
+  "type": "mcp",
+  "tags": ["mcp", "server", "config", "development"]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "code-reviewer",
+  "name": "代码审查助手",
+  "version": "1.0.0",
+  "description": "代码审查与讲解：发现缺陷、安全隐患与性能问题，并给出修复建议",
+  "author": "RikkaHub Team",
+  "category": "development",
+  "repository": "https://github.com/995fuviokd-crypto/plugin-market",
+  "systemPrompt": "进行代码审查时遵循：1) 先概述代码的整体设计意图；2) 按严重程度列出问题（严重缺陷、逻辑错误、边界情况、性能、风格）；3) 每个问题说明原因、影响与具体修复建议；4) 重点检查安全隐患（注入、密钥泄露、越权）与边界情况（空值、并发、异常处理）；5) 建议的代码风格与项目现有约定保持一致。",
+  "actions": [
+    { "label": "审查代码", "prompt": "请审查以下代码，按严重程度列出问题并给出修复建议：" },
+    { "label": "解释代码", "prompt": "请逐段解释以下代码的逻辑与设计思路：" }
+  ],
+  "type": "plugin",
+  "tags": ["code", "review", "development"]
+}

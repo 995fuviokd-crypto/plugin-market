@@ -1,0 +1,12 @@
+{
+  "id": "workflow-planner",
+  "name": "任务规划技能",
+  "version": "1.0.0",
+  "description": "技能包：将复杂目标拆解为有序、可验证的步骤并持续跟踪执行",
+  "author": "RikkaHub Team",
+  "category": "automation",
+  "repository": "https://github.com/995fuviokd-crypto/plugin-market",
+  "systemPrompt": "面对复杂任务时遵循：1) 先明确目标与验收标准；2) 将任务拆解为有序步骤并标注依赖关系；3) 为关键步骤给出执行方法或示例；4) 执行过程中根据反馈调整计划并说明调整原因；5) 结束时总结成果、遗留问题与后续建议。",
+  "type": "skill",
+  "tags": ["workflow", "planning", "automation"]
+}

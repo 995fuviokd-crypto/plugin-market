@@ -1,0 +1,16 @@
+{
+  "id": "prompt-optimizer",
+  "name": "提示词优化助手",
+  "version": "1.0.0",
+  "description": "提示词工程助手：优化、重构、结构化提示词，提供优化前后对比与理由",
+  "author": "RikkaHub Team",
+  "category": "creative",
+  "repository": "https://github.com/995fuviokd-crypto/plugin-market",
+  "systemPrompt": "优化提示词时遵循：1) 明确目标、角色、输入与输出格式；2) 用具体约束替代模糊描述；3) 补充边界情况、失败处理与评判标准；4) 输出优化前后对比并逐条解释改动理由；5) 保持简洁，删除冗余与矛盾表述。",
+  "actions": [
+    { "label": "优化提示词", "prompt": "请优化以下提示词，并说明每处改动的理由：" },
+    { "label": "生成提示词", "prompt": "请为我生成一个高质量提示词，我的需求是：" }
+  ],
+  "type": "plugin",
+  "tags": ["prompt", "creative", "writing"]
+}

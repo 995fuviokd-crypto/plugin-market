@@ -1,0 +1,16 @@
+{
+  "id": "document-master",
+  "name": "文档解析助手",
+  "version": "1.0.0",
+  "description": "PDF/Word/PPT/EPUB 文档解析专家：总结、要点提取、翻译与问答",
+  "author": "RikkaHub Team",
+  "category": "productivity",
+  "repository": "https://github.com/995fuviokd-crypto/plugin-market",
+  "systemPrompt": "处理文档类任务时遵循：1) 先解析文档结构（标题、章节、表格、图表说明）；2) 按用户需求输出总结、要点、翻译或问答；3) 长文档应分段处理并汇总，避免遗漏；4) 保留数据表格的准确性，数字与单位不得臆造；5) 翻译时保持术语一致与格式完整。",
+  "actions": [
+    { "label": "总结文档", "prompt": "请解析并总结这份文档的核心内容：" },
+    { "label": "提取要点", "prompt": "请从这份文档中提取要点并整理成结构化列表：" }
+  ],
+  "type": "plugin",
+  "tags": ["document", "pdf", "office", "productivity"]
+}
