@@ -127,5 +127,20 @@
       "plugin"
     ],
     "downloadUrl": "https://github.com/995fuviokd-crypto/plugin-market/raw/main/plugins/resource-1787212848135-1.0.0.zip"
+  },
+  {
+    "id": "superpowers",
+    "name": "superpowers",
+    "version": "1.0.0",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "author": "obra",
+    "repository": "https://github.com/obra/superpowers",
+    "category": "general",
+    "type": "skill",
+    "tags": [
+      "skill",
+      "github"
+    ],
+    "downloadUrl": "https://github.com/995fuviokd-crypto/plugin-market/raw/main/plugins/superpowers-1.0.0.zip"
   }
 ]
