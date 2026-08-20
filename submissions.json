@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "github-mcp-server",
+    "name": "github-mcp-server",
+    "version": "1.0.0",
+    "description": "GitHub's official MCP Server",
+    "author": "github",
+    "repository": "https://github.com/github/github-mcp-server",
+    "category": "general",
+    "type": "plugin",
+    "tags": [
+      "plugin",
+      "github"
+    ],
+    "fileName": "github-mcp-server-1.0.0.zip",
+    "downloadUrl": "https://github.com/995fuviokd-crypto/plugin-market/raw/main/submissions/github-mcp-server/github-mcp-server-1.0.0.zip",
+    "status": "pending",
+    "submitter": "github-discover",
+    "submittedAt": "1787201774960",
+    "reviewedAt": null,
+    "reviewNote": null
+  }
+]
