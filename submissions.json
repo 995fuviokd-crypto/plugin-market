@@ -60,5 +60,26 @@
     "submittedAt": "1787213191714",
     "reviewedAt": "2026-08-20T08:06:49.066Z",
     "reviewNote": null
+  },
+  {
+    "id": "operit-pack",
+    "name": "operit-pack",
+    "version": "1.0.0",
+    "description": "AI经验笔记 - Operit 技能经验包",
+    "author": "Luck-104n",
+    "repository": "https://github.com/Luck-104n/operit-pack",
+    "category": "general",
+    "type": "skill",
+    "tags": [
+      "skill",
+      "github"
+    ],
+    "fileName": "operit-pack-1.0.0.zip",
+    "downloadUrl": "https://github.com/995fuviokd-crypto/plugin-market/raw/main/submissions/operit-pack/operit-pack-1.0.0.zip",
+    "status": "pending",
+    "submitter": "github-discover",
+    "submittedAt": "1787218937243",
+    "reviewedAt": null,
+    "reviewNote": null
   }
 ]
