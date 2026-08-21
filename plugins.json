@@ -347,5 +347,23 @@
       "日历"
     ],
     "type": "plugin"
+  },
+  {
+    "id": "operit-iris-calendar",
+    "name": "拾月日历",
+    "version": "1.0.0",
+    "description": "心情记录与经期追踪日历插件，支持8种心情、经期详情与预测显示、生病标记、日程分类管理、课程表、纪念日。",
+    "author": "RikkaHub Team",
+    "category": "productivity",
+    "repository": "https://github.com/995fuviokd-crypto/plugin-market",
+    "downloadUrl": "https://raw.githubusercontent.com/995fuviokd-crypto/plugin-market/main/operit-iris-calendar-1.0.0.zip",
+    "tags": [
+      "operit",
+      "script",
+      "productivity",
+      "日历",
+      "心情"
+    ],
+    "type": "plugin"
   }
 ]
