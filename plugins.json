@@ -279,5 +279,22 @@
       "fun",
       "游戏"
     ]
+  },
+  {
+    "id": "operit-voice-favorites",
+    "name": "语音收藏夹",
+    "version": "1.0.0",
+    "description": "收藏 AI 输出的语音内容，支持保存、搜索、稳定分组、永久排序、随机回听、编辑管理与批量导入。45 个工具已通过 RikkaHub 本地引擎验证。",
+    "author": "RikkaHub Team",
+    "category": "productivity",
+    "repository": "https://github.com/995fuviokd-crypto/plugin-market",
+    "downloadUrl": "https://raw.githubusercontent.com/995fuviokd-crypto/plugin-market/main/plugins/operit-voice-favorites-1.0.0.zip",
+    "type": "plugin",
+    "tags": [
+      "operit",
+      "script",
+      "productivity",
+      "语音"
+    ]
   }
 ]
