@@ -296,5 +296,22 @@
       "productivity",
       "语音"
     ]
+  },
+  {
+    "id": "operit-yiting-pub",
+    "name": "一起听",
+    "version": "1.0.0",
+    "description": "一起听 · Listen Together — 小清新鲸鱼主题音乐小屋。支持 QQ 音乐会员播放与网易云双源切换，搜歌点歌即放，带实时双向悄悄话气泡。",
+    "author": "RikkaHub Team",
+    "category": "fun",
+    "repository": "https://github.com/995fuviokd-crypto/plugin-market",
+    "downloadUrl": "https://raw.githubusercontent.com/995fuviokd-crypto/plugin-market/main/plugins/operit-yiting-pub-1.0.0.zip",
+    "type": "plugin",
+    "tags": [
+      "operit",
+      "script",
+      "fun",
+      "音乐"
+    ]
   }
 ]
