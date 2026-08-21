@@ -365,5 +365,23 @@
       "心情"
     ],
     "type": "plugin"
+  },
+  {
+    "id": "operit-coread",
+    "name": "共读",
+    "version": "1.0.0",
+    "description": "跟角色卡一起读书：导入书籍、按章节阅读、标记好句、记录讨论感想、导出 Obsidian 笔记。数据只保存在本机。",
+    "author": "RikkaHub Team",
+    "category": "productivity",
+    "repository": "https://github.com/995fuviokd-crypto/plugin-market",
+    "downloadUrl": "https://raw.githubusercontent.com/995fuviokd-crypto/plugin-market/main/operit-coread-1.0.0.zip",
+    "tags": [
+      "operit",
+      "script",
+      "productivity",
+      "阅读",
+      "笔记"
+    ],
+    "type": "plugin"
   }
 ]
