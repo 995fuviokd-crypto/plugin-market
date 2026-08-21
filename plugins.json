@@ -383,5 +383,22 @@
       "笔记"
     ],
     "type": "plugin"
+  },
+  {
+    "id": "operit-agent-diary",
+    "name": "Agent日记本",
+    "version": "1.0.0",
+    "description": "让 AI Agent 写日记和感想的插件，日记存储在本地，读取权限由 AI 审批管控，附侧边栏可视化界面。",
+    "author": "RikkaHub Team",
+    "category": "life",
+    "repository": "https://github.com/995fuviokd-crypto/plugin-market",
+    "downloadUrl": "https://github.com/995fuviokd-crypto/plugin-market/raw/main/plugins/operit-agent-diary-1.0.0.zip",
+    "type": "plugin",
+    "tags": [
+      "operit",
+      "script",
+      "diary",
+      "日记"
+    ]
   }
 ]
