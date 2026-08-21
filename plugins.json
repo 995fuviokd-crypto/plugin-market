@@ -228,5 +228,22 @@
       "巡检",
       "吃醋"
     ]
+  },
+  {
+    "id": "operit-cyber-hongbao",
+    "name": "赛博红包",
+    "version": "1.0.0",
+    "description": "可自定义的赛博红包/转账/礼物生成器。一键生成可交互的 HTML 卡片，支持自定义奖励池、金额和礼物内容。",
+    "author": "RikkaHub Team",
+    "category": "fun",
+    "repository": "https://github.com/995fuviokd-crypto/plugin-market",
+    "downloadUrl": "https://github.com/995fuviokd-crypto/plugin-market/raw/main/plugins/operit-cyber-hongbao-1.0.0.zip",
+    "type": "plugin",
+    "tags": [
+      "operit",
+      "script",
+      "fun",
+      "红包"
+    ]
   }
 ]
