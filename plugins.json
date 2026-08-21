@@ -400,5 +400,22 @@
       "diary",
       "日记"
     ]
+  },
+  {
+    "id": "operit-murmur-sidebar",
+    "name": "碎碎念",
+    "version": "1.0.0",
+    "description": "用户与 AI 共享的双栏碎碎念侧边栏，支持改名、编辑和主题配色。",
+    "author": "RikkaHub Team",
+    "category": "life",
+    "repository": "https://github.com/995fuviokd-crypto/plugin-market",
+    "downloadUrl": "https://github.com/995fuviokd-crypto/plugin-market/raw/main/plugins/operit-murmur-sidebar-1.0.0.zip",
+    "type": "plugin",
+    "tags": [
+      "operit",
+      "script",
+      "murmur",
+      "碎碎念"
+    ]
   }
 ]
