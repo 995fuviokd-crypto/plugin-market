@@ -176,5 +176,39 @@
       "排错"
     ],
     "downloadUrl": "https://github.com/995fuviokd-crypto/plugin-market/raw/main/plugins/operit-ai-experience-notes-v2-1.0.0.zip"
+  },
+  {
+    "id": "operit-miss-pulse-engine",
+    "name": "想念脉冲",
+    "version": "1.0.0",
+    "description": "主动想念脉冲 — 纯粹的「突然想你了」。基于分离时长+随机噪声生成想念脉冲：分离越久概率越高，触发时生成纯想念内容供推送或对话提起。基于真实会话互动时间自动同步，不采集设备信息、不带控制感。",
+    "author": "RikkaHub Team",
+    "category": "companion",
+    "repository": "https://github.com/995fuviokd-crypto/plugin-market",
+    "downloadUrl": "https://github.com/995fuviokd-crypto/plugin-market/raw/main/plugins/operit-miss-pulse-engine-1.0.0.zip",
+    "type": "plugin",
+    "tags": [
+      "operit",
+      "script",
+      "companion",
+      "想念"
+    ]
+  },
+  {
+    "id": "operit-whale-training",
+    "name": "鲸晚养成",
+    "version": "1.0.0",
+    "description": "养成插件：有只小鲸鱼需要你投喂、抚摸、带它学习和睡觉。支持陪伴值、成长阶段、心情系统和每日打卡。数据保存在本地，不依赖网络。",
+    "author": "RikkaHub Team",
+    "category": "life",
+    "repository": "https://github.com/995fuviokd-crypto/plugin-market",
+    "downloadUrl": "https://github.com/995fuviokd-crypto/plugin-market/raw/main/plugins/operit-whale-training-1.0.0.zip",
+    "type": "plugin",
+    "tags": [
+      "operit",
+      "script",
+      "life",
+      "养成"
+    ]
   }
 ]
