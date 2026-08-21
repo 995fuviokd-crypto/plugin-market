@@ -313,5 +313,22 @@
       "fun",
       "音乐"
     ]
+  },
+  {
+    "id": "operit-daily-diary",
+    "name": "日记本",
+    "version": "1.0.0",
+    "description": "温馨的日记本应用，支持心情标签、评论与 AI 回复。侧边栏日记面板 + 9 个 AI 日记工具联动，数据存于插件沙箱。",
+    "author": "RikkaHub Team",
+    "category": "productivity",
+    "repository": "https://github.com/995fuviokd-crypto/plugin-market",
+    "downloadUrl": "https://raw.githubusercontent.com/995fuviokd-crypto/plugin-market/main/operit-daily-diary-1.0.0.zip",
+    "tags": [
+      "operit",
+      "script",
+      "productivity",
+      "日记"
+    ],
+    "type": "plugin"
   }
 ]
