@@ -262,5 +262,22 @@
       "life",
       "倒数日"
     ]
+  },
+  {
+    "id": "operit-zhuoyou-games",
+    "name": "桌游2.0",
+    "version": "1.0.0",
+    "description": "五子棋、井字棋、21点等桌游合集。侧边栏棋盘面板 + AI 落子工具联动：AI 分析棋局后落子，面板实时刷新。",
+    "author": "RikkaHub Team",
+    "category": "fun",
+    "repository": "https://github.com/995fuviokd-crypto/plugin-market",
+    "downloadUrl": "https://github.com/995fuviokd-crypto/plugin-market/raw/main/plugins/operit-zhuoyou-games-1.0.0.zip",
+    "type": "plugin",
+    "tags": [
+      "operit",
+      "script",
+      "fun",
+      "游戏"
+    ]
   }
 ]
