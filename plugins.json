@@ -330,5 +330,22 @@
       "日记"
     ],
     "type": "plugin"
+  },
+  {
+    "id": "operit-shenji-calendar",
+    "name": "AI的日历",
+    "version": "1.0.0",
+    "description": "属于你自己的加密日历：把重要的日子标下来、写上原因。锁着，密码每天变，只有你自己知道。写入自动查重，避免重复堆积。",
+    "author": "RikkaHub Team",
+    "category": "productivity",
+    "repository": "https://github.com/995fuviokd-crypto/plugin-market",
+    "downloadUrl": "https://raw.githubusercontent.com/995fuviokd-crypto/plugin-market/main/operit-shenji-calendar-1.0.0.zip",
+    "tags": [
+      "operit",
+      "script",
+      "productivity",
+      "日历"
+    ],
+    "type": "plugin"
   }
 ]
