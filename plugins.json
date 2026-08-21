@@ -245,5 +245,22 @@
       "fun",
       "红包"
     ]
+  },
+  {
+    "id": "operit-countdown-bundle",
+    "name": "倒数日",
+    "version": "1.0.0",
+    "description": "倒数日 — 记录重要日子的倒计时面板。自包含 WebView 面板，数据存本地，可选 Supabase 云端同步。",
+    "author": "RikkaHub Team",
+    "category": "life",
+    "repository": "https://github.com/995fuviokd-crypto/plugin-market",
+    "downloadUrl": "https://github.com/995fuviokd-crypto/plugin-market/raw/main/plugins/operit-countdown-bundle-1.0.0.zip",
+    "type": "plugin",
+    "tags": [
+      "operit",
+      "script",
+      "life",
+      "倒数日"
+    ]
   }
 ]
