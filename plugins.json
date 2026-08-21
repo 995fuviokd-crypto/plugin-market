@@ -210,5 +210,23 @@
       "life",
       "养成"
     ]
+  },
+  {
+    "id": "operit-gentle-guardian",
+    "name": "温柔巡检",
+    "version": "1.0.0",
+    "description": "温柔巡检 + 吃醋状态机：巡检时累加吃醋值、分档改变语气（温柔/小委屈/吃醋了/要哄），聊天里被哄了会消气。侧边栏面板可配置阈值、分档、白名单，实时查看醋值仪表与巡检日志。藏应用/拍照等依赖 Shizuku/ADB 特权的操作在 RikkaHub 下自动降级为语气表达。",
+    "author": "RikkaHub Team",
+    "category": "companion",
+    "repository": "https://github.com/995fuviokd-crypto/plugin-market",
+    "downloadUrl": "https://github.com/995fuviokd-crypto/plugin-market/raw/main/plugins/operit-gentle-guardian-1.0.0.zip",
+    "type": "plugin",
+    "tags": [
+      "operit",
+      "script",
+      "companion",
+      "巡检",
+      "吃醋"
+    ]
   }
 ]
